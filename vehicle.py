@@ -5,3 +5,7 @@ class Vehicle:
 
 modelX = Vehicle(240, 18)
 print(modelX.max_speed, modelX.mileage)
+
+class Vehicle:
+    pass
+
